@@ -1,0 +1,6 @@
+2022-06-25 16:29:19,002,: WARNING : FramesWorks.PracticeFramework.test_logging : Something is warning
+2022-06-25 16:29:19,002,: CRITICAL : FramesWorks.PracticeFramework.test_logging : something is critical
+2022-06-25 16:30:16,662,: WARNING : FramesWorks.PracticeFramework.test_logging : Something is warning
+2022-06-25 16:30:16,662,: CRITICAL : FramesWorks.PracticeFramework.test_logging : something is critical
+2022-06-25 16:44:31,076 :INFO : test_editProfile : Sri
+2022-06-25 16:44:31,076 :INFO : test_editProfile : Nivasa

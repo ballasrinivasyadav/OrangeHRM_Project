@@ -1,0 +1,50 @@
+2022-06-20 10:13:58,947 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 10:16:36,126 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 10:17:01,465 :DEBUG : FramesWorks.test_logging : A debug statement is executed
+2022-06-20 10:17:01,465 :INFO : FramesWorks.test_logging : Information statement
+2022-06-20 10:17:01,466 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 10:17:01,466 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 10:17:52,626 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 10:17:52,626 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 12:22:59,561 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 12:22:59,563 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 12:29:31,716 :INFO : FramesWorks.BaseClass : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:29:31,716 :INFO : FramesWorks.BaseClass : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:29:31,718 :INFO : FramesWorks.BaseClass : AnushkaShettyAcademy
+2022-06-20 12:29:31,718 :INFO : FramesWorks.BaseClass : AnushkaShettyAcademy
+2022-06-20 12:33:54,215 :INFO : FramesWorks.BaseClass : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:33:54,215 :INFO : FramesWorks.BaseClass : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:33:54,217 :INFO : FramesWorks.BaseClass : AnushkaShettyAcademy
+2022-06-20 12:33:54,217 :INFO : FramesWorks.BaseClass : AnushkaShettyAcademy
+2022-06-20 12:35:00,239 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:35:00,239 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:35:00,240 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:35:00,240 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:40:02,989 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:40:02,989 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:40:02,991 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:40:02,991 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:40:03,006 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 12:40:03,006 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 12:43:20,330 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:43:20,330 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:43:20,331 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:43:20,331 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:43:20,338 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 12:43:20,338 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-20 12:46:39,664 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:46:39,664 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-20 12:46:39,667 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:46:39,667 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-20 12:46:39,681 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-20 12:46:39,682 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-06-23 09:42:59,492 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-23 09:42:59,492 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-06-23 09:42:59,493 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-23 09:42:59,493 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-06-23 09:42:59,499 :WARNING : FramesWorks.test_logging : something is warning mode
+2022-06-23 09:42:59,499 :CRITICAL : FramesWorks.test_logging : it is in critical mode
+2022-07-26 16:11:28,500 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-07-26 16:11:28,500 :INFO : test_editProfile : ['Anushka', 'Shetty', 'AnushkaShettyAcademy']
+2022-07-26 16:11:28,500 :INFO : test_editProfile : AnushkaShettyAcademy
+2022-07-26 16:11:28,500 :INFO : test_editProfile : AnushkaShettyAcademy
